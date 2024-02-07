@@ -1,8 +1,8 @@
 #board {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
     height: 50vh;
+    width: 500px;
 }
 
 .carree {
